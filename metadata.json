@@ -1,0 +1,6 @@
+{
+  "name": "English 6-sinf",
+  "description": "6-sinf o‘quvchilari uchun zamonaviy va professional ingliz tili ta’lim platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
